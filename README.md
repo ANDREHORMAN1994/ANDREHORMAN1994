@@ -11,8 +11,12 @@ export default {
   contato: '(83) 99363-8760',
   linkedin: 'https://www.linkedin.com/in/andrehorman/',
   skills: {
+    languages: [
+      'javascript', 'java',
+    ],
     backend: [
-      'Node.js', 'Express', 'ORM', 'Sequelize'
+      'Node.js', 'Express', 'ORM', 'Sequelize',
+      'Spring', 'Maven', 'Gradle' 'oauth 2', 'JWT',
       'MySQL', 'PostgreSQL', 'MongoDB', 'Deploy',
       'Sockets', 'Princípios REST API e SOLID',
     ],
@@ -22,7 +26,7 @@ export default {
     ],
     tools: [
       'Git', 'Github', 'heroku',
-      'Cypress', 'Jest',
+      'Cypress', 'Jest', 'mockito', 'junit',
     ],
     designTools: [
       'illustrator', 'photoshop',
