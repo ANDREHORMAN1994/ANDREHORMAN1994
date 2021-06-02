@@ -4,6 +4,7 @@
   width: max-content;
   margin: auto;
   border-radius: 10px 10px 10px 10px;
+  border: 2px solid white;
 }
 
 .technologies-container {
@@ -16,12 +17,5 @@
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
-  align-items: center;
-}
-
-.statistics-container {
-  display: flex;
-  flex-flow: column nowrap;
-  justify-content: center;
   align-items: center;
 }
