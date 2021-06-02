@@ -155,3 +155,5 @@ export default {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDREHORMAN1994&theme=tokyonight&layout=compact)
 
 ![ANDREHORMAN1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANDREHORMAN1994&show_icons=true&theme=tokyonight)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANDREHORMAN1994&theme=tokyonight" alt="ANDREHORMAN1994" /></p>
