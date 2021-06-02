@@ -1,0 +1,27 @@
+.connection-container {
+  background-color: #f5f5f5;
+  padding: 20px;
+  width: max-content;
+  margin: auto;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.technologies-container {
+  background-color: #f5f5f5;
+  padding: 20px;
+  height: max-content;
+  /* width: max-content; */
+  margin: auto;
+  border-radius: 10px 10px 10px 10px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.statistics-container {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
