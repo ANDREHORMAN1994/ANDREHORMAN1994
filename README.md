@@ -8,7 +8,7 @@ export default {
   from: 'João Pessoa, PB, Brasil',
   profession: 'Desenvolvedor Web Full Stack',
   email: 'andrehormandev@gmail.com',
-  contato: '(83) 99363-8760'
+  contato: '(83) 99363-8760',
   linkedin: 'https://www.linkedin.com/in/andrehorman/',
   skills: {
     backend: [
