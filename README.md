@@ -8,8 +8,14 @@ export default {
   from: 'João Pessoa, PB, Brasil',
   profession: 'Desenvolvedor Web Full Stack',
   description: {
-    myProfile: 'Tenho 26 anos, natural de Itabaiana PB, residindo em João Pessoa PB. Sou formado em ciências contábeis pela UEPB, mas decidi migrar de área, agarrando uma nova perspectiva de futuro para mim através da programação e suas tecnologias. Atualmente sou estudante de desenvolvimento de software e aplicações para web pela TRYBE, escola que busca trazer para os alunos as melhores experiências de acordo com o mercado atual.',
-    myObjective: 'Estou buscando oportunidades como desenvolvedor Full-Stack, constantemente procuro aprimorar meus conhecimentos, estudando bastante e me mantendo aberto a novos desafios que possam agregar ao meu futuro.'
+    myProfile: `Tenho 26 anos, natural de Itabaiana PB, residindo em João Pessoa PB.
+      Sou formado em ciências contábeis pela UEPB, mas decidi migrar de área, agarrando
+      uma nova perspectiva de futuro para mim através da programação e suas tecnologias.
+      Atualmente sou estudante de desenvolvimento de software e aplicações para web pela TRYBE,
+      escola que busca trazer para os alunos as melhores experiências de acordo com o mercado atual.`,
+    myObjective: `Estou buscando oportunidades como desenvolvedor Full-Stack,
+      constantemente procuro aprimorar meus conhecimentos, estudando bastante
+      e me mantendo aberto a novos desafios que possam agregar ao meu futuro.`,
   },
   hobbies: ['Cultura Pop', 'Cinema', 'Literatura', 'Games', 'Animes'],
   email: ['andrehormandev@gmail.com', 'andre.horman1994@gmail.com'],
