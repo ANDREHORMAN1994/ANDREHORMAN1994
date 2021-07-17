@@ -8,7 +8,7 @@ export default {
   from: 'João Pessoa, PB, Brasil',
   profession: 'Desenvolvedor Web Full Stack',
   hobbies: ['Cultura Pop', 'Cinema', 'Literatura', 'Games', 'Animes'],
-  email: ['andrehormandev@gmail.com', 'andre.horman1994@gmail.com'],
+  email: ['andre.horman1994@hotmail.com', 'andrehormandev@gmail.com'],
   linkedin: 'https://www.linkedin.com/in/andrehorman/',
   contato: '(83) 99363-8760',
   description: {
@@ -22,11 +22,11 @@ export default {
   },
   skills: {
     languages: [
-      'javascript', 'java', 'Python',
+      'Javascript', 'Java', 'Python',
     ],
     backend: [
       'Node.js', 'Express', 'ORM', 'Sequelize',
-      'Spring', 'Maven', 'oauth 2', 'JWT', 'Swagger'
+      'Spring', 'Maven', 'Oauth 2', 'JWT', 'Swagger'
       'Sockets', 'MySQL', 'PostgreSQL', 'MongoDB',
       'Deploy', 'REST API', 'SOLID', 'POO', 'MSC', 'MVC',
     ],
@@ -36,11 +36,11 @@ export default {
       'RTL', 'Cypress', 'Jest',
     ],
     tools: [
-      'Git', 'Github', 'heroku',
+      'Git', 'Github', 'Heroku',
     ],
     designTools: [
-      'illustrator', 'photoshop',
-      'premiere', 'after effects'
+      'Illustrator', 'Photoshop',
+      'Premiere', 'After Effects'
     ],
   },
 };
@@ -79,7 +79,7 @@ export default {
       />
     </a>
     <a
-      href="mailto:andrehormandev@gmail.com"
+      href="mailto:andre.horman1994@hotmail.com"
       target="_blank"
     >
       <img
