@@ -14,30 +14,29 @@ export default {
   description: {
     myProfile: `Tenho 26 anos, natural de Itabaiana PB, residindo em João Pessoa PB.
       Sou formado em ciências contábeis pela UEPB, mas decidi migrar de área, agarrando
-      uma nova perspectiva de futuro para mim através da programação e suas tecnologias.
-      Atualmente sou estudante de desenvolvimento de software e aplicações para web pela TRYBE,
-      escola que busca trazer para os alunos as melhores experiências de acordo com o mercado atual.`,
-    myObjective: `Estou buscando oportunidades como desenvolvedor Full-Stack,
-      constantemente procuro aprimorar meus conhecimentos, estudando bastante
-      e me mantendo aberto a novos desafios que possam agregar ao meu futuro.`,
+      uma nova perspectiva de futuro para mim através da programação e suas tecnologias.`,
+    myObjective: `Atualmente sou Estudante de Desenvolvimento de Software na Trybe.
+      Estou buscando oportunidades para me inserir no mercado como desenvolvedor Full-Stack,
+      minha formação é focada em javaScript e procuro aprimorar meus conhecimentos todos os dias,
+      com finalidade de adquirir novas experiências que possam agregar ao meu futuro.`,
   },
   skills: {
     languages: [
-      'javascript', 'java',
+      'javascript', 'java', 'Python',
     ],
     backend: [
       'Node.js', 'Express', 'ORM', 'Sequelize',
-      'Spring', 'Maven', 'Gradle' 'oauth 2', 'JWT',
-      'MySQL', 'PostgreSQL', 'MongoDB', 'Deploy',
-      'Sockets', 'Princípios REST API e SOLID',
+      'Spring', 'Maven', 'oauth 2', 'JWT', 'Swagger'
+      'Sockets', 'MySQL', 'PostgreSQL', 'MongoDB',
+      'Deploy', 'REST API', 'SOLID', 'POO', 'MSC', 'MVC',
     ],
     frontend: [
       'HTML5', 'CSS3', 'Javascript',
-      'React.js', 'Redux', 'Context API e Hooks'
+      'React.js', 'Redux', 'Context API e Hooks',
+      'RTL', 'Cypress', 'Jest',
     ],
     tools: [
       'Git', 'Github', 'heroku',
-      'Cypress', 'Jest', 'mockito', 'junit',
     ],
     designTools: [
       'illustrator', 'photoshop',
