@@ -27,7 +27,7 @@ export default {
       'JWT', 'Sockets', 'MySQL', 'MongoDB',
     ],
     frontend: [
-      'HTML5', 'CSS3', 'Javascript', Jest,
+      'HTML5', 'CSS3', 'Javascript', 'Jest',
       'React', 'Redux', 'Context API', 'Hooks',
       'RTL', 'Cypress', 'Jest',
     ],
