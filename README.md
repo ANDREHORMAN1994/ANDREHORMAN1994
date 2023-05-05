@@ -12,7 +12,7 @@ export default {
   linkedin: 'https://www.linkedin.com/in/andrehorman/',
   contato: '(83) 99363-8760',
   description: {
-    myProfile: `Tenho 26 anos, natural de Itabaiana PB, residindo em João Pessoa PB.
+    myProfile: `Tenho 28 anos, natural de Itabaiana PB, residindo em João Pessoa PB.
       Sou formado em ciências contábeis pela UEPB, mas decidi migrar de área, agarrando
       uma nova perspectiva de futuro para mim através da programação e suas tecnologias.`,
     myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedor Full Stack,
