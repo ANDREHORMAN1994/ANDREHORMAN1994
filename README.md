@@ -12,11 +12,15 @@ export default {
   linkedin: 'https://www.linkedin.com/in/andrehorman/',
   contato: '(83) 99363-8760',
   description: {
-    myProfile: `Tenho 28 anos, natural de Itabaiana PB, residindo em João Pessoa PB.
-      Sou formado em ciências contábeis pela UEPB, mas decidi migrar de área, agarrando
-      uma nova perspectiva de futuro para mim através da programação e suas tecnologias.`,
-    myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedor Full Stack,
-      com finalidade de adquirir novas experiências que possam agregar ao meu futuro.`,
+    myProfile: `Meu nome é André Horman, nascido em Itabaiana - PB e atualmente
+            morando em João Pessoa - PB. Meu interesse pela programação surgiu
+            em meados de 2020, quando iniciei um curso na Trybe. Foi amor à
+            primeira vista! Percebi que poderia ter uma nova perspectiva de
+            futuro ao explorar as tecnologias e possibilidades oferecidas pela
+            programação 💚.`,
+    myObjective: `Atualmente, estou focado em aprimorar minhas habilidades como
+            desenvolvedor Full Stack, com o objetivo de obter novas experiências
+            que possam contribuir para meu futuro.`,
   },
   skills: {
     languages: [
