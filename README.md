@@ -32,7 +32,7 @@ export default {
     frontend: [
       'HTML5', 'CSS3', 'Javascript', 'Jest',
       'React', 'Next', 'Redux', 'Context API',
-      'Hooks', 'RTL', 'Cypress', 'Jest',
+      'Hooks', 'RTL', 'Cypress',
     ],
     tools: [
       'Git', 'Github', 'Heroku',
