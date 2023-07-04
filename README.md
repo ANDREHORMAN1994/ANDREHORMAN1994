@@ -31,8 +31,8 @@ export default {
     ],
     frontend: [
       'HTML5', 'CSS3', 'Javascript', 'Jest',
-      'React', 'Redux', 'Context API', 'Hooks',
-      'RTL', 'Cypress', 'Jest',
+      'React', 'Next', 'Redux', 'Context API',
+      'Hooks', 'RTL', 'Cypress', 'Jest',
     ],
     tools: [
       'Git', 'Github', 'Heroku',
