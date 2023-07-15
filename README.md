@@ -10,7 +10,7 @@ export default {
   hobbies: ['Cultura Pop', 'Cinema', 'Literatura', 'Games', 'Animes'],
   email: ['andre.horman1994@hotmail.com', 'andrehormandev@gmail.com'],
   linkedin: 'https://www.linkedin.com/in/andrehorman/',
-  curriculum, 'resume.io/r/5XOjVWyDz',
+  curriculum:, 'resume.io/r/5XOjVWyDz',
   portfolio: 'https://portfolio-andre-horman.vercel.app/',
   contato: '(83) 99363-8760',
   description: {
