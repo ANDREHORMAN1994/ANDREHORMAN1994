@@ -9,9 +9,9 @@ export default {
   profession: 'Desenvolvedor Web Full Stack',
   hobbies: ['Cultura Pop', 'Cinema', 'Literatura', 'Games', 'Animes'],
   email: ['andre.horman1994@hotmail.com', 'andrehormandev@gmail.com'],
-  linkedin: 'https://www.linkedin.com/in/andrehorman/',
+  linkedin: 'https://www.linkedin.com/in/andrehorman',
   curriculum:, 'https://resume.io/r/5XOjVWyDz',
-  portfolio: 'https://portfolio-andre-horman.vercel.app/',
+  portfolio: 'https://portfolio-andre-horman.vercel.app',
   contato: '(83) 99363-8760',
   description: {
     myProfile: `Olá! Meu nome é André, tenho 28 anos e sou formado em Desenvolvimento Web Full Stack
