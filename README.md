@@ -1,6 +1,17 @@
 <link rel="stylesheet" type="text/css" href="./style.css">
 
-# ABOUT ME 👋
+<h1 align="center">
+  Hello World 👋
+</h1>
+
+<div align="center">
+   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+
+<h1 align="center">
+  About Me 🧑‍💻
+</h1>
 
 ```javascript
 export default {
@@ -49,7 +60,9 @@ export default {
 
 <br/>
 
-# Connect with me: 👇
+<h1 align="center">
+  Connect with me: 👇
+</h1>
 
 <section>
   <p
@@ -89,7 +102,9 @@ export default {
 </section>
 <br/>
 
-# 💡Technologies and Tools:
+<h1 align="center">
+  Technologies and Tools 💡
+</h1>
 
 <section style="background-color:#1A1B27">
   <div class="technologies-container">
@@ -208,13 +223,20 @@ export default {
 </section>
 <br/>
 
-# 📈 Statistics:
+<h1 align="center">
+  Statistics 📈
+</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDREHORMAN1994&theme=tokyonight&layout=compact)
-
-![ANDREHORMAN1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANDREHORMAN1994&show_icons=true&theme=tokyonight)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANDREHORMAN1994&theme=tokyonight" alt="ANDREHORMAN1994" /></p>
+<div align="center">
+  <h3>Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDREHORMAN1994&theme=tokyonight&layout=compact" alt="Top Languages">
+  
+  <h3>GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANDREHORMAN1994&show_icons=true&theme=tokyonight" alt="GitHub Stats of ANDREHORMAN1994">
+  
+  <h3>GitHub Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANDREHORMAN1994&theme=tokyonight" alt="ANDREHORMAN1994">
+</div>
 
 <!---
 site de logos: https://github.com/alexandresanlim/Badges4-README.md-Profile
