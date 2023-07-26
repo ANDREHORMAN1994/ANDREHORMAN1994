@@ -106,7 +106,7 @@ export default {
   Technologies and Tools 💡
 </h1>
 
-<section style="background-color:#1A1B27">
+<section align="center">
   <div class="technologies-container">
     <p align="left">
       <a href="https://www.w3.org/html/" target="_blank">
