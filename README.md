@@ -66,8 +66,8 @@ export default {
 <section>
   <p
     align="center"
-    style="background-color:#f5f5f5"
-    class="connection-container">
+    class="connection-container"
+  >
     <a
       href="https://github.com/ANDREHORMAN1994"
       target="_blank"
@@ -88,13 +88,33 @@ export default {
       />
     </a>
     <a
-      href="mailto:andre.horman1994@hotmail.com"
+      href="mailto:andrehormandev@gmail.com"
       target="_blank"
     >
       <img
         align="center"
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         alt="email"
+      />
+    </a>
+    <a
+      href="mailto:andre.horman1994@hotmail.com"
+      target="_blank"
+    >
+      <img
+        align="center"
+        src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+        alt="email"
+      />
+    </a>
+    <a
+      href="https://wa.me/83993638760"
+      target="_blank"
+    >
+      <img
+        align="center"
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        alt="whatsApp"
       />
     </a>
   </p>
@@ -126,11 +146,35 @@ export default {
            alt="javascript"
          />
       </a>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img
+           src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+           alt="typescript"
+         />
+      </a>
+      <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank">
+        <img
+           src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java"
+           alt="java"
+         />
+      </a>
+      <a href="https://www.python.org/" target="_blank">
+        <img
+           src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
+           alt="python"
+         />
+      </a>
       </a>
       <a href="https://reactjs.org/" target="_blank">
         <img
            src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
            alt="react"
+         />
+      </a>
+      <a href="https://angular.io/" target="_blank">
+        <img
+           src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+           alt="angular"
          />
       </a>
       <a href="https://redux.js.org" target="_blank">
@@ -157,6 +201,12 @@ export default {
            alt="mysql"
          />
       </a>
+      <a href="https://www.mongodb.com/docs/" target="_blank">
+        <img
+           src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+           alt="mongodb"
+         />
+      </a>
       <a href="https://www.cypress.io" target="_blank">
         <img
            src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"
@@ -167,6 +217,12 @@ export default {
         <img
            src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
            alt="jest"
+         />
+      </a>
+      <a href="https://www.docker.com/" target="_blank">
+        <img
+           src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+           alt="docker"
          />
       </a>
       <a href="https://www.linux.org/" target="_blank">
@@ -184,7 +240,13 @@ export default {
       <a href="https://github.com/ANDREHORMAN1994" target="_blank">
         <img
            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-           alt="github
+           alt="github"
+         />
+      </a>
+      <a href="https://docs.aws.amazon.com/" target="_blank">
+        <img
+           src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+           alt="aws"
          />
       </a>
       <a href="https://heroku.com" target="_blank">
@@ -234,7 +296,10 @@ export default {
   <img src="https://github-readme-stats.vercel.app/api?username=ANDREHORMAN1994&show_icons=true&theme=tokyonight" alt="GitHub Stats of ANDREHORMAN1994">
   
   <h3>GitHub Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANDREHORMAN1994&theme=tokyonight" alt="ANDREHORMAN1994">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ANDREHORMAN1994&theme=tokyonight"
+    alt="ANDREHORMAN1994"
+  >
 </div>
 
 <!---
