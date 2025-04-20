@@ -25,7 +25,7 @@ export default {
   portfolio: 'https://portfolio-andre-horman.vercel.app',
   contato: '(83) 99363-8760',
   description: {
-    myProfile: `Olá! Meu nome é André, tenho 29 anos e sou desenvolvedor Web Full Stack.
+    myProfile: `Olá! Meu nome é André, tenho 30 anos e sou desenvolvedor Web Full Stack.
       Conheci a programação em meados de 2020 e desde então me apaixonei pela área de
       tecnologia. 💚 Após uma grande transição de carreira, tive o prazer de atuar como
       instrutor de tecnologia Front End durante dois anos, auxiliando e educando estudantes
